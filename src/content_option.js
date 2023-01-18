@@ -1,3 +1,4 @@
+import project0 from '../src/assets/images/project-0.png'
 import project1 from '../src/assets/images/project-1.png'
 import project2 from '../src/assets/images/project-2.png'
 import project3 from '../src/assets/images/project-3.png'
@@ -87,14 +88,19 @@ const dataportfolio = [{
         link: "https://pratibha2411.github.io/Portfolio_responsive/",
     },
     {
+        img: project3,
+        desctiption: "SECURE KEEP NOTE",
+        link: "https://pratibha2411.github.io/secure-keep-notes/",
+    },
+    {
         img: project2,
         desctiption: "Classroom attendance & Administrators' web app",
         link: "#",
     },
     {
-        img: project3,
-        desctiption: "SECURE KEEP NOTE",
-        link: "#",
+        img: project0,
+        desctiption: "Website",
+        link: "https://pratibha2411.github.io/website_portfolio/",
     },
     {
         img: project4,
