@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-skillset/static/css/main.d07a1c37.css",
+    "main.js": "/react-skillset/static/js/main.e5e61651.js",
+    "static/media/project-0.png": "/react-skillset/static/media/project-0.4b735118ea38cb76bec1.png",
+    "static/media/project-9.png": "/react-skillset/static/media/project-9.6e52f846b206d595ba43.png",
+    "static/media/project-2.png": "/react-skillset/static/media/project-2.4d851d13937eae362914.png",
+    "static/media/project-4.png": "/react-skillset/static/media/project-4.2899c3df6d0b0c763aa6.png",
+    "static/media/project-1.png": "/react-skillset/static/media/project-1.e355813945b34d2bb49f.png",
+    "static/media/project-7.png": "/react-skillset/static/media/project-7.b098fcb77603eaaccb58.png",
+    "static/media/project-5.png": "/react-skillset/static/media/project-5.24bb068d6a28d6e083cf.png",
+    "static/media/project-8.png": "/react-skillset/static/media/project-8.318562ef87706db1ac94.png",
+    "static/media/project-3.png": "/react-skillset/static/media/project-3.c6dc0d0a99946d2a3299.png",
+    "index.html": "/react-skillset/index.html",
+    "main.d07a1c37.css.map": "/react-skillset/static/css/main.d07a1c37.css.map",
+    "main.e5e61651.js.map": "/react-skillset/static/js/main.e5e61651.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d07a1c37.css",
+    "static/js/main.e5e61651.js"
+  ]
+}

@@ -32,7 +32,7 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "Jr Software Developer",
         where: "Bynebits",
-        date: "2021",
+        date: "2021-present",
     },
     {
         jobtitle: "Software Developer Intern",
@@ -47,6 +47,10 @@ const worktimeline = [{
 ];
 
 const skills = [{
+        name: "DevOps",
+        value: 77,
+    },
+    {
         name: "Web Development",
         value: 90,
     },
@@ -69,12 +73,16 @@ const skills = [{
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "As a UX/UI Designer, I am a creative and analytical problem-solver who is passionate about creating beautiful and intuitive experiences for users! I have expertise in user research, wireframing, prototyping, and usability testing, and possess the skills and knowledge necessary to design and develop effective and engaging digital products.",
+        title: "DevOps",
+        description: "Operating System: Linux, CentOS, Windows Server, Debian, Ubuntu; Networking: TCP/IP, OSI Model, DNS; Version Control: Git, Github, Gitlab; Virtualization/Containers: Docker, VirtualBox, VMware; Cloud Technologies: Microsoft Azure, AWS, Google Cloud; Web Servers: Apache, Nginx",
     },
     {
         title: "Web/Mobile Apps",
         description: "Eager software developer, looking to participate into building something great. I have a strong background on web/mobile app development,I have expertise in ReactJs, JavaScript, Rest APIs, etc & having knowledge of Python, Node, JavaScript, MongoDB, Express, Angular,Firebase, SQL, GraphQL also used Tools & OS - Visual Studio, IntelliJ, Xcode, CS50, Linux many more...",
+    },
+    {
+        title: "UI & UX Design",
+        description: "As a UX/UI Designer, I am a creative and analytical problem-solver who is passionate about creating beautiful and intuitive experiences for users! I have expertise in user research, wireframing, prototyping, and usability testing, and possess the skills and knowledge necessary to design and develop effective and engaging digital products.",
     },
     {
         title: "Wordpress Design & Plugins",
