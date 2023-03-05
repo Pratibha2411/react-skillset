@@ -17,9 +17,9 @@ const meta = {
 const introdata = {
     title: "I’m Pratibha Baloriya",
     animated: {
-        first: "I develop websites",
-        second: "I develop web/mobile apps",
-        third: "I love development",
+        first: "I develop/deploy websites",
+        second: "I develop/deploye web/mobile apps",
+        third: "I love devops & development",
     },
     description: "An Enthusiastic Software developer who is giving total support to the organization that I work for with the experience and capability that I have.",
     your_img_url: "https://ouch-cdn2.icons8.com/aDYEtct3nlD_KQdec9Vc5lpyu_bWtjPxVTNchfDaj64/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNDI2/LzQ5M2Y3NWNlLTNj/OGItNDE2My05MDkw/LTJjZjlmYjUyNWRk/OC5zdmc.png",
@@ -27,17 +27,17 @@ const introdata = {
 
 const dataabout = {
     title: "About myself",
-    aboutme: "An Enthusiastic Software developer who is giving total support to the organization that I work for with the experience and capability that I have.",
+    aboutme: "An Enthusiastic DevOps & Software developer who is giving total support to the organization that I work for with the experience and capability that I have.",
 };
 const worktimeline = [{
+        jobtitle: "DevOps",
+        where: "Bynebits",
+        date: "2022-present",
+    },  
+    {
         jobtitle: "Jr Software Developer",
         where: "Bynebits",
-        date: "2021-present",
-    },
-    {
-        jobtitle: "Software Developer Intern",
-        where: "Freelance",
-        date: "June 2020",
+        date: "Dec_2021-May_2022",
     },
     {
         jobtitle: "Web Developer Intern",
@@ -74,7 +74,7 @@ const skills = [{
 
 const services = [{
         title: "DevOps",
-        description: "Operating System: Linux, CentOS, Windows Server, Debian, Ubuntu; Networking: TCP/IP, OSI Model, DNS; Version Control: Git, Github, Gitlab; Virtualization/Containers: Docker, VirtualBox, VMware; Cloud Technologies: Microsoft Azure, AWS, Google Cloud; Web Servers: Apache, Nginx",
+        description: "Operating System: Linux, CentOS, Windows Server, Debian, Ubuntu; Networking: TCP/IP, OSI Model, DNS; Version Control: Git, Github, Gitlab; Virtualization/Containers: Docker, VirtualBox, VMware; Cloud Technologies: Microsoft Azure, AWS, Google Cloud; Web Servers: Apache, Nginx, jenkins, Nagios, Kubernetes, Ansible, Puppet, Chef",
     },
     {
         title: "Web/Mobile Apps",
