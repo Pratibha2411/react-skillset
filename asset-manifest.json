@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-skillset/static/css/main.d07a1c37.css",
-    "main.js": "/react-skillset/static/js/main.e5e61651.js",
+    "main.js": "/react-skillset/static/js/main.43d65ca0.js",
     "static/media/project-0.png": "/react-skillset/static/media/project-0.4b735118ea38cb76bec1.png",
     "static/media/project-9.png": "/react-skillset/static/media/project-9.6e52f846b206d595ba43.png",
     "static/media/project-2.png": "/react-skillset/static/media/project-2.4d851d13937eae362914.png",
@@ -13,10 +13,10 @@
     "static/media/project-3.png": "/react-skillset/static/media/project-3.c6dc0d0a99946d2a3299.png",
     "index.html": "/react-skillset/index.html",
     "main.d07a1c37.css.map": "/react-skillset/static/css/main.d07a1c37.css.map",
-    "main.e5e61651.js.map": "/react-skillset/static/js/main.e5e61651.js.map"
+    "main.43d65ca0.js.map": "/react-skillset/static/js/main.43d65ca0.js.map"
   },
   "entrypoints": [
     "static/css/main.d07a1c37.css",
-    "static/js/main.e5e61651.js"
+    "static/js/main.43d65ca0.js"
   ]
 }
