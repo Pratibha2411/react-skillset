@@ -1,3 +1,5 @@
 notes.txt
 node_modules
 yarn.lock
+src/content_option.js
+content_option.js
