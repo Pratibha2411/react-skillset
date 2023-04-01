@@ -11,17 +11,17 @@ import project9 from '../src/assets/images/project-9.png'
 const logotext = "TANU";
 const meta = {
     title: "Pratibha Baloriya",
-    description: "I’m Pratibha Baloriya software developer _ Full stack developer,currently working in India",
+    description: "I’m Pratibha Baloriya DevOps Engineer _ Software developer,currently working in India",
 };
 
 const introdata = {
     title: "I’m Pratibha Baloriya",
     animated: {
-        first: "I develop/deploy websites",
-        second: "I develop/deploye web/mobile apps",
-        third: "I love devops & development",
+        first: "I love DevOps & development",
+        second: "I deploye/develop web/mobile apps",
+        third: "I deploy/develop websites",
     },
-    description: "An Enthusiastic Software developer who is giving total support to the organization that I work for with the experience and capability that I have.",
+    description: "An Enthusiastic DevOps engineer who is giving total support to the organization that I work for with the experience and capability that I have.",
     your_img_url: "https://ouch-cdn2.icons8.com/aDYEtct3nlD_KQdec9Vc5lpyu_bWtjPxVTNchfDaj64/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNDI2/LzQ5M2Y3NWNlLTNj/OGItNDE2My05MDkw/LTJjZjlmYjUyNWRk/OC5zdmc.png",
 };
 
@@ -32,23 +32,23 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "DevOps",
         where: "Bynebits",
-        date: "2022-present",
+        date: "Apr 2022-present",
     },  
     {
         jobtitle: "Jr Software Developer",
         where: "Bynebits",
-        date: "Dec_2021-May_2022",
+        date: "Dec 2021-Mar 2022",
     },
     {
         jobtitle: "Web Developer Intern",
-        where: "Freelance",
-        date: "January 2020",
+        where: "Technolabs",
+        date: "July 2020-Jan 2021",
     },
 ];
 
 const skills = [{
         name: "DevOps",
-        value: 77,
+        value: 85,
     },
     {
         name: "Web Development",
@@ -56,11 +56,11 @@ const skills = [{
     },
     {
         name: "UI/UX Developer",
-        value: 85,
+        value: 80,
     },
     {
         name: "Javascript",
-        value: 80,
+        value: 77,
     },
     {
         name: "React Native",
