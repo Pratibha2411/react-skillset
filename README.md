@@ -1,6 +1,6 @@
 
 
-### [live preview](https://Pratibha2411.github.io/portfolio/)
+### [live preview](https://pratibha2411.github.io/react-skillset/)
 
 
 
