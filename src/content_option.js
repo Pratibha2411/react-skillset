@@ -18,8 +18,8 @@ const introdata = {
     title: "I’m Pratibha Baloriya",
     animated: {
         first: "I love DevOps & development",
-        second: "I deploye/develop web/mobile apps",
-        third: "I deploy/develop websites",
+        second: "I deploye/web app/mobile apps",
+        third: "I deploy websites and app",
     },
     description: "An Enthusiastic DevOps engineer who is giving total support to the organization that I work for with the experience and capability that I have.",
     your_img_url: "https://ouch-cdn2.icons8.com/aDYEtct3nlD_KQdec9Vc5lpyu_bWtjPxVTNchfDaj64/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNDI2/LzQ5M2Y3NWNlLTNj/OGItNDE2My05MDkw/LTJjZjlmYjUyNWRk/OC5zdmc.png",
@@ -32,12 +32,12 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "DevOps",
         where: "Bynebits",
-        date: "Apr 2022-present",
+        date: "March 2022-present",
     },  
     {
-        jobtitle: "Jr Software Developer",
+        jobtitle: "Jr AWS Developer",
         where: "Bynebits",
-        date: "Dec 2021-Mar 2022",
+        date: "Dec 2021-Feb 2022",
     },
     {
         jobtitle: "Web Developer Intern",
@@ -51,23 +51,23 @@ const skills = [{
         value: 85,
     },
     {
-        name: "Web Development",
+        name: "CI/CD",
         value: 90,
     },
     {
-        name: "UI/UX Developer",
+        name: "Cloud: AWS",
         value: 80,
     },
     {
-        name: "Javascript",
+        name: "Terraform",
         value: 77,
     },
     {
-        name: "React Native",
+        name: "Kubernetes",
         value: 60,
     },
     {
-        name: "ReactJs",
+        name: "Docker, Jenkins",
         value: 85,
     },
 ];
@@ -77,18 +77,10 @@ const services = [{
         description: "Operating System: Linux, CentOS, Windows Server, Debian, Ubuntu; Networking: TCP/IP, OSI Model, DNS; Version Control: Git, Github, Gitlab; Virtualization/Containers: Docker, VirtualBox, VMware; Cloud Technologies: Microsoft Azure, AWS, Google Cloud; Web Servers: Apache, Nginx, jenkins, Nagios, Kubernetes, Ansible, Puppet, Chef",
     },
     {
-        title: "Web/Mobile Apps",
-        description: "Eager software developer, looking to participate into building something great. I have a strong background on web/mobile app development,I have expertise in ReactJs, JavaScript, Rest APIs, etc & having knowledge of Python, Node, JavaScript, MongoDB, Express, Angular,Firebase, SQL, GraphQL also used Tools & OS - Visual Studio, IntelliJ, Xcode, CS50, Linux many more...",
+        title: "Web/Mobile Apps deployment",
+        description: "Eager aws developer, looking to participate into building something great. I have a strong background on web/mobile app deployment,I have expertise in AWS, Docker, Jenkins, etc & having knowledge of Python, Shell Scripting, Linux, Terraform, also used Tools & OS - Visual Studio, IntelliJ, Xcode, CS50, Linux many more...",
     },
-    {
-        title: "UI & UX Design",
-        description: "As a UX/UI Designer, I am a creative and analytical problem-solver who is passionate about creating beautiful and intuitive experiences for users! I have expertise in user research, wireframing, prototyping, and usability testing, and possess the skills and knowledge necessary to design and develop effective and engaging digital products.",
-    },
-    {
-        title: "Wordpress Design & Plugins",
-        description: "As a wordpress developer I've worked on: Web Development, WordPress Customization, WordPress Theme Development, WordPress Plugin Development, WooCommerce Extensions, WooCommerce Modifications, WooCommerce Enhancements.",
-    },
-];
+   ];
 
 const dataportfolio = [{
         img: project1,
